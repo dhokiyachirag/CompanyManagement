@@ -9,9 +9,9 @@
 - Run `git clone 'github project link'
 - cd into your project
 - Run composer install.
-- Run php artisan key:generate.
 - Run php artisan migrate.
 - Run php artisan db:seed.
+- Run php artisan storage:link
 - Run php artisna optimize:clear
 - Run php artisna optimize
 - Run php artisan serve.
